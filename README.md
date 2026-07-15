@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone <repository-url>
-cd test-rust-in2
+cd Rust-in
 ```
 
 ### 2. Install Dependencies
@@ -103,7 +103,8 @@ The application will be available at:
 ### Project Structure
 
 ```
-test-rust-in2/
+Rust
+-in/
 ├── src/
 │   ├── app/
 │   │   ├── (frontend)/     # Public-facing pages

@@ -26,6 +26,7 @@ const dirname = path.dirname(filename)
 
 export default buildConfig({
   admin: {
+    theme: 'light',
     components: {
       // The `BeforeLogin` component renders a message on the login page
       beforeLogin: ['@/components/BeforeLogin'],
